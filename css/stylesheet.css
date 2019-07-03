@@ -107,6 +107,7 @@ li {
 
 iframe {
   display: inline-flex;
+  border: 0px;
 }
 
 h1 {
